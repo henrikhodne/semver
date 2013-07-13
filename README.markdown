@@ -27,7 +27,7 @@ See CONTRIBUTING file.
 
 ## Running the tests
 
-    ruby -Ilib test/test_semver.rb
+    ruby test/test_semver.rb
 
 ## License
 

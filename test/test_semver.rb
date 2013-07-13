@@ -1,6 +1,6 @@
 require "minitest/autorun"
 require "minitest/pride"
-require "semver"
+require_relative "../semver"
 
 module SemverRangeAssertions
   def assert_included_in(range, version)
